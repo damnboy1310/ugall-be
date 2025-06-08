@@ -1,0 +1,18 @@
+# Prefect 워크플로우 엔진
+prefect==2.*
+
+# HTML 크롤링용
+requests
+selectolax
+
+# 이미지 처리용
+Pillow
+
+# AWS S3 API 호환 (R2 업로드용)
+boto3
+
+# 환경변수 로드
+python-dotenv
+
+# 테스트 프레임워크
+pytest
